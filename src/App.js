@@ -16,7 +16,7 @@ export default function App() {
 //      const endpoint = "http://demo0670365.mockable.io/naturalpics";
 
 /*       const url = `http://localhost:3000/${endpoint}`;
- */      const url = `http://demo0670365.mockable.io/naturalpics`;
+ */      const url = `https://demo0670365.mockable.io/naturalpics`;
 
       
       const resultado = await axios(url);
